@@ -6,7 +6,7 @@ package com.daw.emulador;
  */
 public class calculadora {
     public static void main(String[]args) {
-        // VARIABLES (LOCAL)
+        // cambio hecho para el fork
         int a = 6;
         int b = 3;
         // Suma
